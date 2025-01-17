@@ -175,6 +175,10 @@ li {
 
 @media screen and (max-width: 768px) {
 	.cart-img {
-		height: 38vh;
+		bottom: -3vh;
+	}
+
+	.cart {
+		bottom: 6vh;
 	}
 }
