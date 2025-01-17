@@ -172,3 +172,9 @@ li {
 		transform: translate(0);
 	}
 }
+
+@media screen and (max-width: 768px) {
+	.cart-img {
+		height: 30vh;
+	}
+}
